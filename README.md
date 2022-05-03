@@ -37,5 +37,7 @@ GIT_USER_UPSTREAM=DanielCarmel <br/>
 
 ## Credits
 Thanks to https://github.com/Lab41/sunny-side-up for laying the foundation of this extension.
+
 Thanks to https://github.com/sat28 for making this extension for Jupyter notebook.
+
 Thanks to https://github.com/DanielCarmel for adding support for Jupyterhub.
